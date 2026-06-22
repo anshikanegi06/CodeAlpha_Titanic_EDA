@@ -73,7 +73,7 @@ This project was completed as part of the CodeAlpha Data Analytics Internship.
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/CodeAlpha_Titanic_EDA.git
+git clone https://github.com/anshikanegi06/CodeAlpha_Titanic_EDA.git
 
 2. Open the project folder in VS Code.
 
