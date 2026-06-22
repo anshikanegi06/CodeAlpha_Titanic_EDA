@@ -1,7 +1,9 @@
 🚢 CodeAlpha Titanic EDA - Task 1
 
 Internship Domain: Data Analytics
+
 Submitted By: Anshika Negi
+
 Organization: CodeAlpha
 
 📝 Project Overview
